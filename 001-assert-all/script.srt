@@ -1,0 +1,40 @@
+﻿1
+00:00:01,000 --> 00:00:02,433
+Hey Java Developers,
+
+2
+00:00:02,433 --> 00:00:04,366
+Have a test with multiple assertions
+
+3
+00:00:04,366 --> 00:00:07,500
+And getting frustrated you have to execute it multiple times 
+
+4
+00:00:07,500 --> 00:00:09,600
+to resolve all the assertion failures?
+
+5
+00:00:09,600 --> 00:00:12,066
+Use assertAll, part of JUnit 5, 
+
+6
+00:00:12,066 --> 00:00:14,033
+which can wrap multiple assertions
+
+7
+00:00:14,033 --> 00:00:15,633
+and return all the failures 
+
+8
+00:00:15,633 --> 00:00:17,400
+in a single test execution
+
+9
+00:00:17,400 --> 00:00:17,433
+Happy testing!
+
+10
+00:00:17,433 --> 00:00:18,566
+Happy testing!
+

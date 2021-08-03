@@ -1,0 +1,17 @@
+Hey Java developers,
+
+Have a test with multiple assertions
+
+And getting frustrated you have to execute it multiple times 
+
+to resolve all the assertion failures?
+
+Use assertAll, part of JUnit 5, 
+
+which can wrap multiple assertions 
+
+and return all the failures 
+
+in a single test execution
+
+Happy Testing!

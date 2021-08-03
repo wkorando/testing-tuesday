@@ -1,5 +1,0 @@
-# Happy Testing!
-
-Article: 
-
-Code: 

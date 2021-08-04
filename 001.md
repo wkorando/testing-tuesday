@@ -19,11 +19,11 @@ public class MultipleAsserts {
 		}
 		;
 
-		Superhero person = new Superhero("Tony", "Stark", "Irony man");
+		Superhero person = new Superhero("Toni", "Stank", "Irony man");
 
-		assertEquals("Tony", person.fName); // Will fail
-		assertEquals("Stark", person.lName); // Will fail
-		assertEquals("Ironman", person.alias); // Will fail
+		assertEquals("Tony", person.fName); // Will fail, only error reported
+		assertEquals("Stark", person.lName); // Will fail, not reported
+		assertEquals("Ironman", person.alias); // Will fail, not reported
 	}
 
 }

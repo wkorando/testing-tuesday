@@ -11,6 +11,8 @@
 
 	<modules>
 		<module>001-assert-all</module>
+		<module>002-parameterized-tests</module>
+		<module>xxx-jfr-unit</module>
 	</modules>
 
 </project>

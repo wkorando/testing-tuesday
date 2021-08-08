@@ -1,0 +1,23 @@
+Hey Java developers,
+
+Writing tests for a block of code that has a lot of branches?
+
+Like in this example of validating fields within a form.
+
+And find yourself copying and pasting the same test format to cover all the branches?
+
+In these scenario, consider writing a parameterized test. 
+
+A Parameterized Test, defined with the ParameterizedTest annotation in JUnit 5
+
+Is a type of test where a scenario is defined
+
+And then a data source is defined 
+
+That passes different arguments into the scenario
+
+Improving the maintainability and expandability
+
+Parameterized tests can take several different data sources types
+
+Happy Testing!

@@ -16,7 +16,7 @@ And then a data source is defined
 
 That passes different arguments into the scenario
 
-Improving the maintainability and expandability
+Improving maintainability and expandability
 
 Parameterized tests can take several different data sources types
 

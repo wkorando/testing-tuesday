@@ -1,0 +1,84 @@
+﻿1
+00:00:00,000 --> 00:00:01,466
+Hey Java developers,
+
+2
+00:00:01,466 --> 00:00:04,800
+Writing tests for a block of code that has a lot of branches?
+
+3
+00:00:04,800 --> 00:00:08,000
+Like in this example of validating fields within a form.
+
+4
+00:00:08,000 --> 00:00:08,466
+Like in this example of validating fields within a form.
+
+5
+00:00:08,466 --> 00:00:08,900
+Like in this example of validating fields within a form.
+
+6
+00:00:08,900 --> 00:00:10,800
+And find yourself copying and pasting 
+
+7
+00:00:10,800 --> 00:00:13,266
+the same test format to cover all the branches?
+
+8
+00:00:13,266 --> 00:00:13,300
+the same test format to cover all the branches?
+
+9
+00:00:13,300 --> 00:00:14,700
+the same test format to cover all the branches?
+
+10
+00:00:14,700 --> 00:00:17,933
+In these scenario, consider writing a parameterized test. 
+
+11
+00:00:17,933 --> 00:00:22,600
+A Parameterized Test, defined with the @ParameterizedTest in JUnit 5
+
+12
+00:00:22,600 --> 00:00:23,066
+A Parameterized Test, defined with the ParameterizedTest annotation in JUnit 5
+
+13
+00:00:23,066 --> 00:00:23,200
+A Parameterized Test, defined with the ParameterizedTest annotation in JUnit 5
+
+14
+00:00:23,200 --> 00:00:25,366
+Is a type of test where a scenario is defined
+
+15
+00:00:25,366 --> 00:00:27,133
+And then a data source is defined 
+
+16
+00:00:27,133 --> 00:00:30,166
+That passes different arguments into the scenario
+
+17
+00:00:30,166 --> 00:00:33,300
+Improving maintainability and expandability
+
+18
+00:00:33,300 --> 00:00:33,866
+Improving the maintainability and expandability
+
+19
+00:00:33,866 --> 00:00:34,133
+Improving the maintainability and expandability
+
+20
+00:00:34,133 --> 00:00:38,033
+Parameterized tests can take several different data sources types
+
+21
+00:00:38,033 --> 00:00:39,799
+Happy Testing!
+
